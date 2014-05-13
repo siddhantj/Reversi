@@ -1,0 +1,11 @@
+Compilation instruction:
+
+1) javac reversi.java
+2) java reversi -t 1 -d 3 -i input.txt -op output.txt -ol output_log.txt
+
+where
+-t:	task
+-d: cut-off depth
+-i: input files 
+-op: output of the game
+-ol: log file produced which determines the state of the game at each step.
