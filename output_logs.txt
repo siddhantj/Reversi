@@ -1,0 +1,61 @@
+root 1 -Infinity -Infinity Infinity
+a1 2 Infinity -Infinity Infinity
+b1 3 -Infinity -Infinity Infinity
+a4 4 25 -Infinity Infinity
+b1 3 25 25 Infinity
+f4 4 23 25 Infinity
+b1 3 23 25 Infinity
+a1 2 25 -Infinity 25
+f4 3 -Infinity -Infinity 25
+b1 4 25 -Infinity 25
+f4 3 25 25 25 CUT-OFF
+a1 2 25 -Infinity 25
+d6 3 -Infinity -Infinity 25
+b1 4 21 -Infinity 25
+d6 3 21 21 25
+a4 4 19 21 25
+d6 3 19 21 25
+f4 4 23 21 25
+d6 3 23 23 25
+a1 2 23 -Infinity 23
+a8 3 -Infinity -Infinity 23
+b1 4 21 -Infinity 23
+a8 3 21 21 23
+a4 4 23 21 23
+a8 3 23 23 23 CUT-OFF
+a1 2 23 -Infinity 23
+root 1 23 23 Infinity
+b1 2 Infinity 23 Infinity
+a1 3 -Infinity 23 Infinity
+f4 4 25 23 Infinity
+a1 3 25 25 Infinity
+b1 2 25 23 25
+a4 3 -Infinity 23 25
+a1 4 27 23 25
+a4 3 27 27 25 CUT-OFF
+b1 2 27 23 25
+f4 3 -Infinity 23 25
+b1 2 22 23 22 CUT-OFF
+root 1 22 23 Infinity
+f4 2 Infinity 23 Infinity
+b1 3 -Infinity 23 Infinity
+a1 4 33 23 Infinity
+b1 3 33 33 Infinity
+a4 4 29 33 Infinity
+b1 3 29 33 Infinity
+f4 2 33 23 33
+d6 3 -Infinity 23 33
+a1 4 23 23 33
+d6 3 23 23 33
+b1 4 27 23 33
+d6 3 27 27 33
+a4 4 25 27 33
+d6 3 25 27 33
+f4 2 27 23 27
+a8 3 -Infinity 23 27
+a1 4 23 23 27
+a8 3 23 23 27
+b1 4 29 23 27
+a8 3 29 29 27 CUT-OFF
+f4 2 29 23 27
+root 1 27 27 Infinity
